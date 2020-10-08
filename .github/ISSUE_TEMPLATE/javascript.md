@@ -1,5 +1,5 @@
 ---
-name: JS
+name: Javascript
 about: Javascript 질문
 title: ''
 labels: JS
