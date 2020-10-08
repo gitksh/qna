@@ -2,6 +2,10 @@
 ## 상태
 ![Status](https://img.shields.io/github/issues-raw/gitksh/qna?label=%EB%8B%B5%EB%B3%80%EC%A4%91%20%EC%A7%88%EB%AC%B8%20%EA%B0%9C%EC%88%98&style=for-the-badge) ![Status](https://img.shields.io/github/issues-closed-raw/gitksh/qna?label=%ED%95%B4%EA%B2%B0%EB%90%9C%20%EC%A7%88%EB%AC%B8%20%EA%B0%9C%EC%88%98&style=for-the-badge)
 
+## 바로가기
+[https://github.com/gitksh/qna/issues](https://github.com/gitksh/qna/issues)
+
+
 ## 목적
 
 학교 코딩 동아리 와 코딩 스터디 진행에 앞서 소스를 포함한 질문과 답변을 보다 쉽게 하기 위해 생성 되었습니다.
